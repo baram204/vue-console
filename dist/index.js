@@ -1,7 +1,8 @@
 /*
   vue-console 1.0.0
-  https://github.com/onexdata/vue-console
-  By Nick Steele <njsteele@gmail.com>
+  https://github.com/baram204/vue-console
+  By JIHOON YI <baram204@gmail.com>
+  Forked from https://github.com/onexdata/vue-console
 
   Based on console.js 1.2.2 (pre-React)
 
