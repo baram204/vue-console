@@ -1,14 +1,14 @@
 {
   "name": "vue-custom-console",
   "version": "1.0.0",
-  "description": "console system for Vue based on console.js",
+  "description": "custom console system for Vue based on console.js",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baram204/vue-console.git"
+    "url": "git+https://github.com/baram204/vue-custom-console.git"
   },
   "keywords": [
     "console",
@@ -23,7 +23,7 @@
   "author": "JIHOON YI <baram204@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/baram204/vue-console/issues"
+    "url": "https://github.com/baram204/vue-custom-console/issues"
   },
-  "homepage": "https://github.com/baram204/vue-console#readme"
+  "homepage": "https://github.com/baram204/vue-custom-console#readme"
 }
